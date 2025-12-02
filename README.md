@@ -47,6 +47,6 @@
     <img align="center" src="https://img.shields.io/badge/-Rizky%20Fatur%20Rohman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rizkyfaturrohman" alt="linkedin"/>
   </a>
   <a href="mailto:emailanda@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-emailanda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emailanda@gmail.com" alt="gmail"/>
+    <img align="center" src="https://img.shields.io/badge/-superrizky3456@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emailanda@gmail.com" alt="gmail"/>
   </a>
 </p>
