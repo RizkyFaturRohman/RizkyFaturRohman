@@ -2,7 +2,7 @@
 <h3 align="center">Informatics Student | Web Developer Enthusiast</h3>
 
 <p align="center"> 
-  I'm passionate about building modern web applications. Currently focusing on mastering Fullstack Development with <b>Laravel</b> and <b>Next.js</b>.
+  I'm passionate about building modern web applications. Currently focusing on mastering Fullstack Development with <b>Laravel, </b> <b>React.js</b> and <b>Next.js</b>.
 </p>
 
 ---
