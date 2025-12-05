@@ -18,6 +18,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> 
+  </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/> 
   </a>
@@ -28,7 +31,6 @@
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
   </a>
 </p>
-
 ---
 
 
